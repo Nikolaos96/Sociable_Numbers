@@ -12,3 +12,6 @@ Example: <br/>
  
  
  ❮img src="https://images.slideplayer.com/14/4319317/slides/slide_6.jpg" width="100" ❯
+
+
+![](https://images.slideplayer.com/14/4319317/slides/slide_6.jpg)
