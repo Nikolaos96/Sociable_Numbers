@@ -9,3 +9,6 @@ Example: <br/>
          ... <br/>
          12496 : sum_of_divisor(12496) = 14288 -> sum_of_divisor(14288) = 15472 -> ... -> sum_of_divisor(14264) = 12496 <br/>
          ... <br/>
+
+
+         ![alt text](https://images.slideplayer.com/14/4319317/slides/slide_6.jpg)
