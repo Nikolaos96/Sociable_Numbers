@@ -11,4 +11,4 @@ Example: <br/>
          ... <br/>
 
 
-         ![alt text](https://images.slideplayer.com/14/4319317/slides/slide_6.jpg)
+         ![](https://images.slideplayer.com/14/4319317/slides/slide_6.jpg)
