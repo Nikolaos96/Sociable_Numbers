@@ -13,4 +13,8 @@ Example: <br/>
  
 
 
-![](https://images.slideplayer.com/14/4319317/slides/slide_6.jpg)
+![](https://images.slideplayer.com/14/4319317/slides/slide_6.jpg) <br/>
+
+The difficulty in exercising is not the implementation but the complexity of time. <br/>
+A quick implementation of the exercise will take several hours to calculate all the social numbers up to 10000000. <br/>
+This program is the first one I made and it takes about four minutes. <br/>
